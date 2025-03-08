@@ -48,7 +48,7 @@ class nnUNetTrainerNoDAV2FLCE_MixUp_AFA(nnUNetTrainerNoDAV2FLCE):
             plans_file, fold, output_folder, dataset_directory, batch_dice, stage, unpack_data,
             deterministic, fp16
         )
-        self.max_num_epochs = 300
+        self.max_num_epochs = 200
         self.loss = FL_and_CE_for_MixUp(
             fl_kwargs={'to_onehot_y': False, 'smooth': 1e-5, 'gamma': 2, 'size_average': True},
             ce_kwargs={}
