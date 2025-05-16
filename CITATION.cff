@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Vaish
+    given-names: Puru
+  - family-names: Meister
+    given-names: Felix
+  - family-names: Heimann
+    given-names: Tobias
+  - family-names: Brune
+    given-names: Christoph
+  - family-names: Wolterink
+    given-names: Jelmer M.
+title: 'Data-Agnostic Augmentations for Unknown Variations: Out-of-Distribution Generalisation in MRI Segmentation'
+version: 1.0.0
+date-released: '2025-05-16'
+preferred-citation:
+  authors:
+    - family-names: Vaish
+      given-names: Puru
+      orcid: "https://orcid.org/0000-0002-5180-5293"
+    - family-names: Meister
+      given-names: Felix
+    - family-names: Heimann
+      given-names: Tobias
+    - family-names: Brune
+      given-names: Christoph
+      orcid: "https://orcid.org/0000-0003-0145-5069"
+    - family-names: Wolterink
+      given-names: Jelmer M.
+      orcid: "https://orcid.org/0000-0001-5505-475X"
+  title: 'Data-Agnostic Augmentations for Unknown Variations: Out-of-Distribution Generalisation in MRI Segmentation'
+  doi: 10.48550/arXiv.2505.10223
+  type: conference-paper
+  pages: 1-29
+  year: '2025'
+  collection-title: International Conference on Medical Imaging with Deep Learning
+  conference: {MIDL 2025}
+  publisher: {Proceedings of Machine Learning Research}
